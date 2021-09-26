@@ -1,2 +1,3 @@
 觀查LED亮度變化是否有像"呼吸的效果"和示波器的波形有什麼關連性?
-![image](https://user-images.githubusercontent.com/89715433/132115908-098d1d13-45d8-47c6-9950-7f3a61033f2a.png)
+![1632625286300](https://user-images.githubusercontent.com/89715433/134791867-2a47937b-8568-49a1-8646-30735606ca4f.jpg)
+2-2 用示波器觀察電壓變化(LED RGB)
