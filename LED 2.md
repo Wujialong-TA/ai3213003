@@ -6,3 +6,5 @@
 ![1634439455114](https://user-images.githubusercontent.com/89715433/137609009-60ded2e8-50c4-449a-843e-f38574447bb2.jpg)
 2-4 可變電阻 + 序列監視器與輸出
 ![1634437659773](https://user-images.githubusercontent.com/89715433/137608259-6abab8d3-f061-4455-bd1c-f73d0d6eab68.jpg)
+2-5 按下按鍵控制 LED 開關
+![1634439507914](https://user-images.githubusercontent.com/89715433/137609041-bdf7c05c-3827-47c0-97da-9bdcf62d6a8b.jpg)
