@@ -5,4 +5,4 @@
 2-3 讓你的RGB LED燈全彩模組也可會"呼吸"
 
 2-4 可變電阻 + 序列監視器與輸出
-![1634437598851](https://user-images.githubusercontent.com/89715433/137608222-facd70d3-e8c8-43e6-ace5-bae640baa05a.jpg)
+![1634437659773](https://user-images.githubusercontent.com/89715433/137608259-6abab8d3-f061-4455-bd1c-f73d0d6eab68.jpg)
