@@ -2,3 +2,7 @@
 ![1632625286300](https://user-images.githubusercontent.com/89715433/134791867-2a47937b-8568-49a1-8646-30735606ca4f.jpg)
 2-2 用示波器觀察電壓變化(LED RGB)
 ![1632626243665](https://user-images.githubusercontent.com/89715433/134792162-72dbe330-7d40-477a-8f96-10fc9d7f529c.jpg)
+2-3 讓你的RGB LED燈全彩模組也可會"呼吸"
+
+2-4 可變電阻 + 序列監視器與輸出
+![1634437598851](https://user-images.githubusercontent.com/89715433/137608222-facd70d3-e8c8-43e6-ace5-bae640baa05a.jpg)
