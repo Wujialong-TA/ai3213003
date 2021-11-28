@@ -9,4 +9,5 @@ C . 從已提供的選項中,找一張自己喜歡的照片來試試看
 D . 從網路上找一張自己喜歡的照片來試試看
 ![4](https://user-images.githubusercontent.com/89715433/143726655-0fd7d99b-fb21-4306-8b54-c047d8dd8e20.jpg)
 [9-2 Python的5個回顧練習]
+
 ![1638082037452](https://user-images.githubusercontent.com/89715433/143732574-e6dfdafa-71de-46cb-9a72-110a7848b74b.jpg)
